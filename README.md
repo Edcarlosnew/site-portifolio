@@ -11,6 +11,8 @@ Neste curso você vai dominar todo **git** e **GitHub** do _zero ao Profissional
 
 ## Módulos de lista Ordenada
 1. Começando com Git.
+        1. O que é Git?
+        2. instalando Git na Maquina.
 2. Aprendendo sobre branches.
 3. Git Avançado.
 4. Usando github de forma Profissional.
