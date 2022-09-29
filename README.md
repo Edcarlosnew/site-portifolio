@@ -18,6 +18,12 @@ Neste curso você vai dominar todo **git** e **GitHub** do _zero ao Profissional
 3. Git Avançado.
 4. Usando github de forma Profissional.
 
+**Ultimas Update:**
+
+- [x] Site responsivo.
+- [ ] Login com facebook.
+- [ ] Pagina sobre a empresa.
+
 
 # Titulo <h1>
 
