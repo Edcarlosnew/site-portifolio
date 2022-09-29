@@ -1,5 +1,11 @@
 ![Logo do Git](img/foto1.png)
 
+[Bem Vindo](#bem-vindo-ao-curso-git-e-github)
+[Módulos](#módulos-de-lista-não-ordenada)
+[Rede Social](#rede-social)
+[Rodar Projeto](#comandos-para-rodar-o-projeto)
+
+
 # Bem Vindo ao Curso Git e GitHub.
 Neste curso você vai dominar todo **git** e **GitHub** do _zero ao Profissional._
 
