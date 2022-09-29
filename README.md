@@ -76,3 +76,12 @@ function showName(name){
     color: #ff0000;
 }
 ```
+
+**Criando Tabelas:**
+
+Propriedade | Descrição
+----------- | ---------
+_**Name**_ | Para informar o nome do usuario
+_**Size**_ | Para definir o tamanho do campo
+_**Backgound**_ | Cor de fundo da area em Hex
+_**OnPress**_ | função chamada quando clicar no botão
