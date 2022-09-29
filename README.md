@@ -1,8 +1,8 @@
 ![Logo do Git](img/foto1.png)
 
-[Bem Vindo](#bem-vindo-ao-curso-git-e-github)
-[Módulos](#módulos-de-lista-não-ordenada)
-[Rede Social](#rede-social)
+[Bem Vindo](#bem-vindo-ao-curso-git-e-github) |
+[Módulos](#módulos-de-lista-não-ordenada) |
+[Rede Social](#rede-social) |
 [Rodar Projeto](#comandos-para-rodar-o-projeto)
 
 
