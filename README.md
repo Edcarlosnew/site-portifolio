@@ -1,3 +1,5 @@
+![Logo do Git](img/foto1.png)
+
 # Bem Vindo ao Curso Git e GitHub.
 Neste curso você vai dominar todo **git** e **GitHub** do _zero ao Profissional._
 
@@ -15,3 +17,8 @@ _Entendendo o que é **Git**, Aprendendo sobre **Repositórios**,Trabalhando com
 ##### Titulo <h5>
 
 ###### Titulo <h6>
+
+### Rede Social:
+[Instagram](https://instagram.com/sujeitoprogramador)
+
+[youtube](https://youtube.com/c/sujeitoprogramador)
