@@ -36,6 +36,6 @@ Neste curso você vai dominar todo **git** e **GitHub** do _zero ao Profissional
 
 [youtube](https://youtube.com/c/sujeitoprogramador)
 
->Este é um bloquequote, usado para destacar alguma area.
+>Este é um blockquote, usado para destacar alguma area.
 >
 >Segunda area destacada
